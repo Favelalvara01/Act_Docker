@@ -1,1 +1,1 @@
-console.log('Todas las pruebas pasaron');
+process.exit(0);
