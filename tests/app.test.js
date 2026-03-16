@@ -1,10 +1,7 @@
 const assert = require('assert');
+const { suma, resta, multiplica } = require('./funciones');
 
 console.log('Iniciando pruebas...');
-
-function suma(a, b) { return a + b; }
-function resta(a, b) { return a - b; }
-function multiplica(a, b) { return a * b; }
 
 assert.strictEqual(suma(2, 3), 5);
 console.log('✓ Prueba suma: PASSED');

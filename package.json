@@ -4,5 +4,8 @@
   "scripts": {
     "start": "node index.js",
     "test": "node tests/app.test.js"
+  },
+  "devDependencies": {
+    "nyc": "^18.0.0"
   }
 }
