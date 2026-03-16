@@ -1,8 +1,8 @@
 {
-  "name": "Act-Docker",
-"version": "1.0.0",
-  "Scripts":{
-    "Start": "node index.js",
-    "test": "node test/app.test.js"
+  "name": "act-doker",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node tests/app.test.js"
   }
 }
