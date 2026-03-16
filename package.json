@@ -1,0 +1,8 @@
+{
+  "name": "Act_Docker",
+"version": "1.0.0",
+  "Scripts":{
+    "Start": "node index.js",
+    "test": "node test/app.test.js"
+  }
+}
