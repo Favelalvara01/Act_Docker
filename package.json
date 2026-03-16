@@ -1,5 +1,5 @@
 {
-  "name": "Act_Docker",
+  "name": "Act-Docker",
 "version": "1.0.0",
   "Scripts":{
     "Start": "node index.js",
